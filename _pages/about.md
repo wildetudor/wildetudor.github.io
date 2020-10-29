@@ -11,6 +11,6 @@ redirect_from:
 Titlu unu oare?
 ======
 
-** Subtitlu unu.unu? **
+**Subtitlu unu.unu?**
 
 Continut normal
