@@ -87,7 +87,7 @@ author:
   employer         : "University of Vienna"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=tudor+popescu"
   googlescholar    : "https://scholar.google.co.uk/citations?user=zyvRs14AAAAJ&hl=en"
-  email            :
+  email            : "tudor.popescu@univie.ac.at"
   researchgate     : "https://www.researchgate.net/profile/Tudor_Popescu8"
   uri              :
   bitbucket        :
@@ -189,6 +189,7 @@ collections:
     permalink: /:collection/:path/
 
 
+
 # Defaults
 defaults:
   # _posts
@@ -244,7 +245,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
