@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Oxford graduate with a passion for science and for music. Having built-up a methodological toolkit for psychology and neuroscience in my graduate studies (where I did psychophysics and numerical cognition), I have thereafter moved to music cognition, where my heart lies, and to which I currently devote my efforts. 
+I am an Oxford graduate with a passion for science and for music. Having built-up a methodological toolkit for experimental psychology and cognitive neuroscience in my graduate studies (where I focused on numerical cognition), I have thereafter directed my research efforts towards music cognition, where I try to apply this methodology to test theories about the perception, production, and cultural evolution of music.
 
 I am presently a postdoc at the University of Vienna, where I investigate the brain bases of our capacity for language and music.
 
