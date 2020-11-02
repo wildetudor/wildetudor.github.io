@@ -16,12 +16,21 @@ author_profile: true
 
 **Guest lecturer**
 
-* 2019/2020	University of Vienna (Department of Behavioural and Cognitive Biology)
-	Methods in Cognitive Biology (MSc)
+* 2019/2020: Methods in Cognitive Biology (MSc)..
+University of Vienna (Department of Behavioural and Cognitive Biology)
 	
-* 2018, 2019 Medical University of Vienna (Department of Neurology)
-Co-leader for MRI analysis methods and hands-on SPM sessions, within the Basics of Neuroscience course for Vienna-area undergraduates&postgraduates.
+* 2018 and 2019: Basics of Neuroscience (MSc, BSc)..
+Medical University of Vienna (Department of Neurology)
+
+* 2016 and 2017: **Music Cognition (BSc)**..
+**TU Dresden (Institute for Musicology and Art History)**
+
+(bold = includes creation of syllabus and exam papers)
 
 **Teaching assistant**
-* 2008 University of Durham (Department of Psychology)
-	Statistics
+* 2013: Statistics, Neuroanatomy and Social Psychology..
+University of Oxford (Department of Experimental Psychology)
+
+* 2008: Statistics..
+University of Durham (Department of Psychology)
+	
