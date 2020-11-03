@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-**Published/accepted**
-
 1. Popescu T., Widdess R., Rohrmeier M. (2020, accepted). Western listeners detect phrase boundaries in Indian music: a cross-cultural segmentation study. *Scientific Reports*
 
 2. Popescu T., Fitch W.T. (2020). [Dynamic hierarchical cognition: Music and language demand further types of abstracta](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/dynamic-hierarchical-cognition-music-and-language-demand-further-types-of-abstracta/2A06A50DAF15EBCC9918B86715178E01). *Behavioral and Brain Sciences*
@@ -31,12 +29,3 @@ author_profile: true
 
 11. Cohen Kadosh R., Bahrami B., Walsh V., Butterworth B., Popescu T., & Price C. J. (2011). [Specialization in the human brain: the case of numbers](http://journal.frontiersin.org/article/10.3389/fnhum.2011.00062/full). *Frontiers in Human Neuroscience*
 
-**Forthcoming**
-
-12. Popescu T., Pernet C., Beisteiner R. (2020, under review). Transcranial ultrasound pulse stimulation increases cortical thickness in Alzheimer's patients. *Alzheimer's & Dementia: Translational Research & Clinical Interventions*
-
-13. Popescu T., Marin M., Grassi M., Cohen Kadosh R., Humphreys G. (under review). Pitch-number interactions in the numerically impaired brain.
-
-14. Popescu T., Stahl B., Wiernik B. M., Haiduk F., Matzinger T., Beisteiner R., Fitch W. T. (2020, in prep). Melodic Intonation Therapy for aphasia: a meta-analysis
-
-15. Popescu T., Farrugia N., Ruge H., Boneh O., Bravo F., Tian X., Rohrmeier M. (2020, in prep). Reading the musical mind: from perception to imagery, via fMRI decoding.
