@@ -11,11 +11,11 @@ redirect_from:
 
 **Conferences and symposia organised**
 
-- 2019: Workshop "Untangling music-language interactions in the brain": University of Vienna, Department of Cognitive Biology **(***initiator and organiser*)
+- 2019: Workshop "Untangling music-language interactions in the brain": University of Vienna, Department of Cognitive Biology
 
-- 2019: [Symposium "Current topics in Music Cognition: Perceiving time and structure": European Society for Cognitive Psychology (ESCoP) meeting *(initiator, organiser, and co-chair)*](https://www.escop.eu/files/files/escop2019-abstracts.pdf)
+- 2019: [Symposium "Current topics in Music Cognition: Perceiving time and structure": European Society for Cognitive Psychology (ESCoP) meeting](https://www.escop.eu/files/files/escop2019-abstracts.pdf)
 
-- 2017 & 2016: [Lecture series with international speakers: Dresden Music Cognition Lab, TU Dresden *(initiator and co-organiser)*](https://www.facebook.com/events/838435002959658/)
+- 2017 & 2016: [Lecture series with international speakers: Dresden Music Cognition Lab, TU Dresden](https://www.facebook.com/events/838435002959658/)
 
 **Invited talks (at conferences, labs)**
 
