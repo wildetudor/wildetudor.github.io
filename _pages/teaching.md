@@ -9,10 +9,13 @@ author_profile: true
 {% include base_path %}
 
 ***Teaching philosophy***
-* Appeal to intuition
-* Continuously prompt students to contribute, to leave no-one behind
-* Instill a sense of step-by-step discovery
-* Find examples that students care about and are motivated to make parallels to
+* Appeal to intuition: find examples that students would know&care about and are thus motivated to make parallels to
+* Continuously prompt students to get engaged, to leave no-one behind
+* For mixed-background classes, assume little specialised knowledge, and instead find bridging points between disciplines
+* Instil a sense of step-by-step discovery, with minimal hand-holding
+* Make constant references to "real" research: publications, the review process, research groups
+* Encourage exchange of ideas and constructive feedback between students, within and between classes
+* Clarity and transparency with respect to course requirements and examinations
 
 **Guest lecturer**
 
