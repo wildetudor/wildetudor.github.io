@@ -9,15 +9,15 @@ author_profile: true
 {% include base_path %}
 
 ***Teaching philosophy***
-* Appeal to intuition: find examples that students would know&care about and are thus motivated to make parallels to
-* Continuously prompt students to get engaged, to leave no-one behind
-* For mixed-background classes, assume little specialised knowledge, and instead find bridging points between disciplines
-* Instil a sense of step-by-step discovery, with minimal hand-holding
-* Make constant references to "real" research: publications, the review process, research groups
-* Encourage exchange of ideas and constructive feedback between students, within and between classes
-* Clarity and transparency with respect to course requirements and examinations
-* Train para-academic skills in the process: academic writing, presentations, accepting criticism, etc.
-* Combine the respective advantages of online (e-learning) and in-person teaching methods
+* *Appeal to intuition: find examples that students would know&care about and are thus motivated to make parallels to*
+* *Continuously prompt students to get engaged, to leave no-one behind*
+* *For mixed-background classes, assume little specialised knowledge, and instead find bridging points between disciplines*
+* *Instil a sense of step-by-step discovery, with minimal hand-holding*
+* *Make constant references to "real" research: publications, the review process, research groups*
+* *Encourage exchange of ideas and constructive feedback between students, within and between classes*
+* *Clarity and transparency with respect to course requirements and examinations*
+* *Train para-academic skills in the process: academic writing, presentations, accepting criticism, etc.*
+* *Combine the respective advantages of online (e-learning) and in-person teaching methods*
 
 **Guest lecturer**
 
@@ -39,7 +39,7 @@ author_profile: true
 * 2008: Statistics\
   University of Durham (Department of Psychology)
 	
-**Pre- and non-university teaching**
+**Pre-university teaching and teacher training**
 * 2013: Experimental Psychology\
 Oxford Royale Academy
 
