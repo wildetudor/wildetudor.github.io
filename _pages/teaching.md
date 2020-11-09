@@ -16,6 +16,8 @@ author_profile: true
 * Make constant references to "real" research: publications, the review process, research groups
 * Encourage exchange of ideas and constructive feedback between students, within and between classes
 * Clarity and transparency with respect to course requirements and examinations
+* Train para-academic skills in the process: academic writing, presentations, accepting criticism, etc.
+* Combine the respective advantages of online (e-learning) and in-person teaching methods
 
 **Guest lecturer**
 
