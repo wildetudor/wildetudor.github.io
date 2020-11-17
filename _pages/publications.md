@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-1. Popescu T., Pernet C., Beisteiner R. (2020, accepted). Transcranial ultrasound pulse stimulation reduces cortical atrophy in Alzheimer's patients: a follow-up study. *Alzheimer's & Dementia: Translational Research & Clinical Interventions*
+1. Popescu T., Pernet C., Beisteiner R. (2020, accepted). [Transcranial ultrasound pulse stimulation reduces cortical atrophy in Alzheimer's patients: a follow-up study.](https://psyarxiv.com/txqgn) *Alzheimer's & Dementia: Translational Research & Clinical Interventions*
 
 2. Popescu T., Widdess R., Rohrmeier M. (2020, accepted). Western listeners detect phrase boundaries in Indian music: a cross-cultural segmentation study. *Scientific Reports*
 
