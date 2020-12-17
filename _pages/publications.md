@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-1. Popescu T., Oesch N., Buck B. (2021, in press). [Musical features emerging from a biocultural musicality]. *Behavioral and Brain Sciences*
+1. Popescu T., Oesch N., Buck B. (2021, in press). Musical features emerging from a biocultural musicality. *Behavioral and Brain Sciences*
 
 2. Popescu T., Pernet C., Beisteiner R. (2020, in press). [Transcranial ultrasound pulse stimulation reduces cortical atrophy in Alzheimer's patients: a follow-up study.](https://psyarxiv.com/txqgn) *Alzheimer's & Dementia: Translational Research & Clinical Interventions*
 
