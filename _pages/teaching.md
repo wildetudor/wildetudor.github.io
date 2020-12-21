@@ -21,16 +21,14 @@ author_profile: true
 
 **Guest lecturer**
 
-* 2019/2020: Methods in Cognitive Biology (MSc)\
+* 2019/2020: Methods in Cognitive Biology (MSc)  **(E)** \
   University of Vienna (Department of Behavioural and Cognitive Biology)
 	
 * 2018 and 2019: Basics of Neuroscience (MSc, BSc)\
   Medical University of Vienna (Department of Neurology)
 
-* 2016 and 2017: **Music Cognition (BSc)**\
-  **TU Dresden (Institute for Musicology and Art History)**
-
-(bold = includes creation of syllabus and exam papers)
+* 2016 and 2017: Music Cognition (BSc)  **(S)(E)** \
+  *TU Dresden (Institute for Musicology and Art History)* 
 
 **Teaching assistant**
 * 2013: Statistics, Neuroanatomy and Social Psychology\
@@ -40,11 +38,14 @@ author_profile: true
   University of Durham (Department of Psychology)
 	
 **Pre-university teaching and teacher training**
-* 2013: Experimental Psychology\
+* 2013: Experimental Psychology   **(S)(E)** \
 Oxford Royale Academy
 
 * 2012 and 2013: Music Psychology (Waynflete project essays)\
 Magdalen College School Oxford
 
-* 2012 and 2014: Music Psychology\
+* 2012 and 2014: Music Psychology   **(S)(E)** \
 Oxbridge Academic Programs (teacher training)
+_______________________
+**(S)** = including syllabus creation
+**(E)** = including exam papers
