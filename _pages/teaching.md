@@ -46,6 +46,8 @@ Magdalen College School Oxford
 
 * 2012 and 2014: Music Psychology   **(S)(E)** \
 Oxbridge Academic Programs (teacher training)
-_______________________
+
+\
+_____________________________________
 **(S)** = including syllabus creation
 **(E)** = including exam papers
