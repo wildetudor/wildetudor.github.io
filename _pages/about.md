@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Oxford graduate with a passion for science and for music. I am presently a postdoc at the University of Vienna, where I investigate comparatively the brain bases of our capacity for music and language.
 <br/><br/>
-The overarching question of my research is: How does meaning, and in particular, emotion, emerge between music's different levels - from the individual notes' spectra, all the way to the syntactic abstractions required for the comprehension of large-scale musical form? 
+The overarching question of my research aims towards a Helmholtzian endeavour that could be put something like: How does meaning, and in particular, emotion, emerge between music's different levels, from the individual notes' spectra to the syntactic abstractions required for the comprehension of large-scale musical form? 
 &nbsp;
 &nbsp;
 
