@@ -11,8 +11,8 @@ redirect_from:
 Education
 ======
 * PhD in Experimental Psychology, University of Oxford (2015)
-* MSc in Psychophysics, University of Durham (2009)
-* BSc in Electronic Engineering, Politehnica University of Bucharest (2006)
+* MSc in Psychophysics, University of Durham
+* BSc in Electronic Engineering, Politehnica University of Bucharest
 
 Postdoc experience
 ======
