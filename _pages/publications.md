@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-1. Popescu T., Widdess R., Rohrmeier M. (2021). [Western listeners detect phrase boundaries in Indian music: a cross-cultural segmentation study.](www.nature.com/articles/s41598-021-82629-y) *Scientific Reports*
+1. Popescu T., Widdess R., Rohrmeier M. (2021). [Western listeners detect phrase boundaries in Indian music: a cross-cultural segmentation study.](https://www.nature.com/articles/s41598-021-82629-y) *Scientific Reports*
 
 2. Popescu T., Oesch N., Buck B. (2021, in press). [Musical features emerging from a biocultural musicality.](https://psyarxiv.com/kgd8w) *Behavioral and Brain Sciences*
 
