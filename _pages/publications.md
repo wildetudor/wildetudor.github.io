@@ -9,9 +9,9 @@ author_profile: true
 
 1. Popescu T., Oesch N., Buck B. (2021, in press). [Musical features emerging from a biocultural musicality.](https://psyarxiv.com/kgd8w) *Behavioral and Brain Sciences*
 
-2. Popescu T., Pernet C., Beisteiner R. (2020, in press). [Transcranial ultrasound pulse stimulation reduces cortical atrophy in Alzheimer's patients: a follow-up study.](https://psyarxiv.com/txqgn) *Alzheimer's & Dementia: Translational Research & Clinical Interventions*
+2. Popescu T., Pernet C., Beisteiner R. (2021, in press). [Transcranial ultrasound pulse stimulation reduces cortical atrophy in Alzheimer's patients: a follow-up study.](https://psyarxiv.com/txqgn) *Alzheimer's & Dementia: Translational Research & Clinical Interventions*
 
-3. Popescu T., Widdess R., Rohrmeier M. (2020, in press). [Western listeners detect phrase boundaries in Indian music: a cross-cultural segmentation study.](https://psyarxiv.com/q9f7e) *Scientific Reports*
+3. Popescu T., Widdess R., Rohrmeier M. (2020). [Western listeners detect phrase boundaries in Indian music: a cross-cultural segmentation study.](www.nature.com/articles/s41598-021-82629-y) *Scientific Reports*
 
 4. Popescu T., Fitch W.T. (2020). [Dynamic hierarchical cognition: Music and language demand further types of abstracta](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/dynamic-hierarchical-cognition-music-and-language-demand-further-types-of-abstracta/2A06A50DAF15EBCC9918B86715178E01). *Behavioral and Brain Sciences*
 
