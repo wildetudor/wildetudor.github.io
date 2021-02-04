@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-1. Popescu T., Oesch N., Buck B. (2021, in press). [Musical features emerging from a biocultural musicality.](https://psyarxiv.com/kgd8w) *Behavioral and Brain Sciences*
+1. Popescu T., Widdess R., Rohrmeier M. (2021). [Western listeners detect phrase boundaries in Indian music: a cross-cultural segmentation study.](www.nature.com/articles/s41598-021-82629-y) *Scientific Reports*
 
-2. Popescu T., Pernet C., Beisteiner R. (2021, in press). [Transcranial ultrasound pulse stimulation reduces cortical atrophy in Alzheimer's patients: a follow-up study.](https://psyarxiv.com/txqgn) *Alzheimer's & Dementia: Translational Research & Clinical Interventions*
+2. Popescu T., Oesch N., Buck B. (2021, in press). [Musical features emerging from a biocultural musicality.](https://psyarxiv.com/kgd8w) *Behavioral and Brain Sciences*
 
-3. Popescu T., Widdess R., Rohrmeier M. (2020). [Western listeners detect phrase boundaries in Indian music: a cross-cultural segmentation study.](www.nature.com/articles/s41598-021-82629-y) *Scientific Reports*
+3. Popescu T., Pernet C., Beisteiner R. (2020, in press). [Transcranial ultrasound pulse stimulation reduces cortical atrophy in Alzheimer's patients: a follow-up study.](https://psyarxiv.com/txqgn) *Alzheimer's & Dementia: Translational Research & Clinical Interventions*
 
 4. Popescu T., Fitch W.T. (2020). [Dynamic hierarchical cognition: Music and language demand further types of abstracta](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/dynamic-hierarchical-cognition-music-and-language-demand-further-types-of-abstracta/2A06A50DAF15EBCC9918B86715178E01). *Behavioral and Brain Sciences*
 
@@ -33,3 +33,6 @@ author_profile: true
 
 13. Cohen Kadosh R., Bahrami B., Walsh V., Butterworth B., Popescu T., & Price C. J. (2011). [Specialization in the human brain: the case of numbers](http://journal.frontiersin.org/article/10.3389/fnhum.2011.00062/full). *Frontiers in Human Neuroscience*
 
+_____
+
+*Copyright notice: The publishers of these articles hold the copyright. The PDF versions of articles have been provided only as a means to ensure timely dissemination of scholarly work. You may not distribute them, make them available for download by others, or use them for any profit-making enterprise. The articles may not be re-posted without the explicit permission of the copyright holder.*
