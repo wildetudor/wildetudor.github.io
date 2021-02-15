@@ -23,7 +23,7 @@ author_profile: true
 
 8. Popescu T., Sader E., Schaer M., Thomas A., Terhune D. B., Dowker A., Mars R. B., Cohen Kadosh R. (2018). [The brain-structural correlates of mathematical expertise](https://www.sciencedirect.com/science/article/pii/S0010945218303356). *Cortex*
 
-9. Witek M., Popescu T., Clarke E., Hansen M., Kringelbach M. & Vuust, P. (2016). [ Syncopation affects free body-movement in musical groove.](https://www.ncbi.nlm.nih.gov/pubmed/28028583) *Experimental Brain Research*
+9. Witek M., Popescu T., Clarke E., Hansen M., Kringelbach M. & Vuust, P. (2016). [ Syncopation affects free body-movement in musical groove.](https://www.ncbi.nlm.nih.gov/pubmed/28028583) *Experimental Brain Research* [[PDF]](https://github.com/wildetudor/wildetudor.github.io/blob/master/files/Witek%2C%20Popescu%20et%20al.%202016%20-%20Experimental%20Brain%20Research.pdf)
 
 10. Popescu T., Krause B., Terhune D.B., Twose O., Page T., Humphreys G., Cohen Kadosh R. (2015). [Transcranial random noise stimulation mitigates increased difficulty in an arithmetic learning task](http://www.sciencedirect.com/science/article/pii/S0028393215302682). *Neuropsychologia*
 
