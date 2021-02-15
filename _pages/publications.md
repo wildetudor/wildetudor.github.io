@@ -15,7 +15,7 @@ author_profile: true
 
 4. Popescu T., Fitch W.T. (2020). [Dynamic hierarchical cognition: Music and language demand further types of abstracta](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/dynamic-hierarchical-cognition-music-and-language-demand-further-types-of-abstracta/2A06A50DAF15EBCC9918B86715178E01). *Behavioral and Brain Sciences*
 
-5. Fitch W.T., Popescu T. (2019). [The world in a song](https://science.sciencemag.org/content/366/6468/944). *Science* [PDF](https://github.com/wildetudor/wildetudor.github.io/blob/master/files/Fitch%26Popescu%202019%20-%20Science.pdf)
+5. Fitch W.T., Popescu T. (2019). [The world in a song](https://science.sciencemag.org/content/366/6468/944). *Science* [[PDF]](https://github.com/wildetudor/wildetudor.github.io/blob/master/files/Fitch%26Popescu%202019%20-%20Science.pdf)
 
 6. Popescu T., Cohen Kadosh R. (2019). [Drawing the boundaries of expertise: who is a mathematician?](https://doi.org/10.1016/j.cortex.2019.04.020) *Cortex*
 
