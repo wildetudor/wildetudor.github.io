@@ -11,7 +11,7 @@ author_profile: true
 
 2. Popescu T., Widdess R., Rohrmeier M. (2021). [Western listeners detect phrase boundaries in Indian music: a cross-cultural segmentation study.](https://www.nature.com/articles/s41598-021-82629-y) *Scientific Reports*
 
-3. Popescu T., Oesch N., Buck B. (2021, in press). [Musical features emerging from a biocultural musicality.](https://psyarxiv.com/kgd8w) *Behavioral and Brain Sciences*
+3. Popescu T., Oesch N., Buck B. (2021, in press). [Musical features emerging from a biocultural musicality.](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/musical-features-emerging-from-a-biocultural-musicality/BF7CF43EED58431247D6F44B0E08BCDA) *Behavioral and Brain Sciences*
 
 4. Popescu T., Pernet C., Beisteiner R. (2020, in press). [Transcranial ultrasound pulse stimulation reduces cortical atrophy in Alzheimer's patients: a follow-up study.](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.12121) *Alzheimer's & Dementia: Translational Research & Clinical Interventions*
 
