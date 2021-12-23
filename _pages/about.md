@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-  - **NEWS: With colleagues from Vienna and Graz, I am organising a symposium dedicated to the theory and methods behind 3 key components of music psychology: imagery, prediction, and cultural evolution. Details [here](https://sites.google.com/view/escopmusiccognition/). Participation free (23-25 Feb '22).**
+  - **NEWS: With colleagues from Vienna and Graz, I am organising a [symposium](https://sites.google.com/view/escopmusiccognition/) dedicated to the theory and methods behind 3 key components of music psychology: imagery, prediction, and cultural evolution. Participation free (23-25 Feb '22).**
 
 I am an Oxford graduate with a passion for science and for music. In my present postdoctoral work, I pursue the comparative study of our cognitive capacities for music and for language.
 <br/><br/>
