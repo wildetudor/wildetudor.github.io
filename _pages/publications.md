@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-1. Popescu T., Stahl B., Wiernik B. M., Helm H., Zemanek M., Haiduk F., Matzinger T., Beisteiner R., Fitch W. T. (under review). [Melodic Intonation Therapy for aphasia: a multi-level meta-analysis.](https://www.medrxiv.org/content/10.1101/2021.08.28.21262764v1)
+1. Popescu T., Stahl B., Wiernik B. M., Helm H., Zemanek M., Haiduk F., Matzinger T., Beisteiner R., Fitch W. T. (under review). [Melodic Intonation Therapy for aphasia: a multi-level meta-analysis.](https://www.medrxiv.org/content/10.1101/2021.08.28.21262764v2)
 
 2. Popescu T., Widdess R., Rohrmeier M. (2021). [Western listeners detect phrase boundaries in Indian music: a cross-cultural segmentation study.](https://www.nature.com/articles/s41598-021-82629-y) *Scientific Reports*
 
