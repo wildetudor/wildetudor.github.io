@@ -11,9 +11,11 @@ redirect_from:
 
 **Conferences and symposia organised**
 
+- 2022: [Three-day symposium "Music cognition in theory and practice: Prediction, creativity, and cultural evolution": online](https://sites.google.com/view/escopmusiccognition/)
+
 - 2019: [Workshop "Untangling music-language interactions in the brain": University of Vienna, Department of Cognitive Biology](https://github.com/wildetudor/wildetudor.github.io/blob/master/_talks/musicLanguage_worskhop_Dec2019___programme.pdf)
 
-- 2019: [Symposium "Current topics in Music Cognition: Perceiving time and structure": European Society for Cognitive Psychology (ESCoP) meeting](https://www.escop.eu/files/files/escop2019-abstracts.pdf)
+- 2019: [Conference ssession: "Current topics in Music Cognition: Perceiving time and structure": European Society for Cognitive Psychology (ESCoP) meeting, Tenerife](https://www.escop.eu/files/files/escop2019-abstracts.pdf)
 
 - 2017 & 2016: [Lecture series with international speakers: Dresden Music Cognition Lab, TU Dresden](https://www.facebook.com/events/838435002959658/)
 
