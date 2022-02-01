@@ -45,15 +45,15 @@ redirect_from:
 
 **Conference presentations**
 
-- 2019: ["Detecting phrase boundaries: An Indian music segmentation study". Oral presentation at European Society for Cognitive Psychology (ESCoP), Tenerife, Spain, September 2019](https://www.escop.eu/files/files/escop2019-abstracts.pdf)
+- 2020: "Melodic Intonation Therapy: A meta-analysis". Poster presentation at Alpine Brain Imaging Meeting, Champery, Switzerland, January 2020
 
-- 2019: "Melodic Intonation Therapy: A meta-analysis". Poster presentation at Learning and Plasticity meeting, Äkäslompolo, Finland, April 2019
+- 2019: ["Detecting phrase boundaries: An Indian music segmentation study". Oral presentation at European Society for Cognitive Psychology (ESCoP), Tenerife, Spain, September 2019](https://www.escop.eu/files/files/escop2019-abstracts.pdf)
 
 - 2017: "Reading the musical mind: from perception to imagery, via fMRI decoding". Poster presentation at International Conference for Cognitive Neuroscience (ICON), Amsterdam, The Netherlands, August 2017
 
 - 2016: "Musical dissonance -- the good, the bad and the jazzy". Poster presentation at International Conference on Music Perception and Cognition (ICMPC), San Francisco, USA, July 2016
 
-- 2015: ["Number-space and pitch-space interactions in the numerically impaired brain". Oral presentation at European Society for Cognitive Psychology (ESCoP), Paphos, Cyprus, September 2015](https://escop2015.sched.com/event/4826/spatial-cognition)
+- 2015: ["Number-space and pitch-space interactions in the numerically impaired brain". Oral presentation at European Society for Cognitive Psychology, Paphos, Cyprus, September 2015](https://escop2015.sched.com/event/4826/spatial-cognition)
 
 - 2014: "What can voxel- and surface-based morphometry reveal about mathematical expertise?". Poster presentation at Federation of European Neuroscience Societies (FENS), Milan, Italy, July 2014
 
@@ -61,7 +61,7 @@ redirect_from:
 
 - 2013: ["Transcranial random noise stimulation enhances consistency of strategies used in an arithmetic learning task". Poster presentation at Society for Neuroscience (SfN), San Diego, USA, November 2013](https://www.sfn.org/~/media/SfN/Documents/Annual%20Meeting/FinalProgram/NS2013/DailyBooks2013/AM13Book2_FridaySaturday.ashx)
 
-- 2011: "Investigating the mathematical brain". Oral presentation at European Society for Cognitive Psychology (ESCoP), San Sebastian, Spain, September 2011
+- 2011: "Investigating the mathematical brain". Oral presentation at the European Society for Cognitive Psychology meeting, San Sebastian, Spain, September 2011
 
 - 2011: "Number, mind and brain". Oral presentation at the Institute of Cognitive Neuroscience, UCL, London, UK, August 2011
 
