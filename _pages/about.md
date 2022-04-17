@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-  - **NEWS: With colleagues from Vienna and Graz, I am organising a [symposium](https://sites.google.com/view/escopmusiccognition/) dedicated to the theory and methods behind 3 key components of music psychology: imagery, prediction, and cultural evolution. Participation free (23-25 Feb '22).**
-
+  
 I am an Oxford graduate with a passion for science and for music. In my present postdoctoral work, I pursue the comparative study of our cognitive capacities for music and for language.
 <br/><br/>
 The overarching question of my research aims towards a Helmholtzian endeavour that might be so worded: How does meaning, and in particular, emotion, emerge amongst music's different levels, from the individual notes' spectra to the syntactic abstractions required for the comprehension of large-scale musical form? 
