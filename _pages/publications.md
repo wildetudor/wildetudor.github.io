@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-1. Popescu T., Farrugia N., Ruge H., Boneh O., Bravo F., Tian X., Rohrmeier M. (forthcoming). [Neural representations of harmonic function in musical imagery.](https://psyarxiv.com/ry79k)
+1. Popescu T., Farrugia N., Ruge H., Boneh O., Bravo F., Tian X., Rohrmeier M. (2022). [Neural representations of harmonic function in musical imagery.](https://psyarxiv.com/ry79k)
 
 2. Popescu T., Mertens P., Rohrmeier M. (forthcoming). Cultural attractors in music evolution: Scale-like structures emerge during cultural transmission of artificial melodies.
 
