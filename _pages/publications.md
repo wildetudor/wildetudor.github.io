@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-1. Popescu T., Farrugia N., Ruge H., Boneh O., Bravo F., Tian X., Rohrmeier M. (2022). [Neural representations of harmonic function in musical imagery.](https://psyarxiv.com/ry79k)
+1. Popescu T., Farrugia N., Ruge H., Boneh O., Bravo F., Tian X., Rohrmeier M. (forthcoming). [Neural representations of harmonic function in musical imagery.](https://psyarxiv.com/ry79k)
 
-2. Popescu T., Walther J., Rohrmeier M. (forthcoming). [Cultural attractors in music evolution: Scale-like structures emerge during cultural transmission of artificial melodies.](https://psyarxiv.com/vg9fz)
+2. Popescu T., Walther J., Rohrmeier M. (forthcoming). [Building blocks of tonality emerge from transmission chains with random melodies.](https://psyarxiv.com/vg9fz)
 
-3. Popescu T., Stahl B., Wiernik B. M., Helm H., Zemanek M., Haiduk F., Matzinger T., Beisteiner R., Fitch W. T. (forthcoming). [Melodic Intonation Therapy for aphasia: a multi-level meta-analysis.](https://www.medrxiv.org/content/10.1101/2021.08.28.21262764v2)
+3. Popescu T., Stahl B., Wiernik B. M., Helm H., Zemanek M., Haiduk F., Matzinger T., Beisteiner R., Fitch W. T. (2022). [Melodic Intonation Therapy for aphasia: a multi-level meta-analysis.](https://www.medrxiv.org/content/10.1101/2021.08.28.21262764v2) *Annals of the New York Academy of Sciences*
 
 4. Popescu T., Widdess R., Rohrmeier M. (2021). [Western listeners detect phrase boundaries in Indian music: a cross-cultural segmentation study.](https://www.nature.com/articles/s41598-021-82629-y) *Scientific Reports*
 
