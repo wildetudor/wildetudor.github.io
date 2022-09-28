@@ -22,7 +22,7 @@ author_profile: true
   Medical University of Vienna (Department of Neurology)
 
 * 2016 and 2017: Music Cognition (BSc)  **(S)(E)** \
-  *TU Dresden (Institute for Musicology and Art History)* 
+  TU Dresden (Institute for Musicology and Art History)
 
 **As teaching assistant**
 * 2013: Statistics, Neuroanatomy and Social Psychology\
