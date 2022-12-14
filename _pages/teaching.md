@@ -8,11 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-**As module leader**
-
-* 2022: Psychology of Judgement and Decision-making (BSc)  **(E)** \
-  Webster Vienna Private University (Department of Psychology)
-
 **As guest lecturer**
 
 * 2019/2020: Methods in Cognitive Biology (MSc)  **(E)** \
