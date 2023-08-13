@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-1. Schiavio A.*, Popescu T.*, Kempf A., Timmers R. (accepted) [Distinguishing between musical excerpts learned by novices individually or in pairs.](https://psyarxiv.com/f46m7) (*: shared first authorship) *Psychology of Music*
+1. Schiavio A.^, Popescu T.^, Kempf A., Timmers R. (accepted) [Distinguishing between musical excerpts learned by novices individually or in pairs.](https://psyarxiv.com/f46m7) (^: shared first authorship) *Psychology of Music*
 
 2. Popescu T., Farrugia N., Ruge H., Boneh O., Bravo F., Tian X., Rohrmeier M. (under review). [Neural representations of harmonic function in musical imagery.](https://psyarxiv.com/ry79k)
 
