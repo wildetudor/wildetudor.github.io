@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-1. Schiavio A.^, Popescu T.^, Kempf A., Timmers R. (under review). [Distinguishing between musical excerpts learned by novices individually or in pairs.](https://psyarxiv.com/f46m7) (^: shared first authorship) 
+1. Schiavio A.*, Popescu T.*, Kempf A., Timmers R. (accepted) [Distinguishing between musical excerpts learned by novices individually or in pairs.](https://psyarxiv.com/f46m7) (*: shared first authorship) *Psychology of Music*
 
 2. Popescu T., Farrugia N., Ruge H., Boneh O., Bravo F., Tian X., Rohrmeier M. (under review). [Neural representations of harmonic function in musical imagery.](https://psyarxiv.com/ry79k)
 
-3. Popescu T., Walther J., Rohrmeier M. (under review). [Building blocks of tonality emerge from transmission chains with random melodies.](https://psyarxiv.com/vg9fz)
+3. Popescu T., Rohrmeier M. (under review). [Building blocks of tonality emerge from transmission chains with random melodies.](https://psyarxiv.com/vg9fz)
 
 4. Popescu T., Stahl B., Wiernik B. M., Helm H., Zemanek M., Haiduk F., Matzinger T., Beisteiner R., Fitch W. T. (2022). [Melodic Intonation Therapy for aphasia: a multi-level meta-analysis.](https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.14848) *Annals of the New York Academy of Sciences*
 
