@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-1.	Schiavio A., Biasutti M., Kempf A., Popescu T., Benedek M. (accepted). Construction and psychometric analysis of a new self-assessment inventory: The Processes and Relationships in Composers Scale. *Music Perception*
+1.	Schiavio A., Biasutti M., Kempf A., Popescu T., Benedek M. (2024). [Construction and psychometric analysis of a new self-assessment inventory: The Processes and Relationships in Composers Scale](https://online.ucpress.edu/mp/article/41/3/217/199790/The-Processes-and-Relationships-in-Composers?guestAccessKey=4bc84d50-acd2-490d-a1bd-28d8ed4a9d82) *Music Perception*
 
 2. Schiavio A.^, Popescu T.^, Kempf A., Timmers R. (accepted) [Distinguishing between musical excerpts learned by novices individually or in pairs.](https://psyarxiv.com/f46m7) (^: shared first authorship) *Psychology of Music*
 
