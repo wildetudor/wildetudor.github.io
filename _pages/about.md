@@ -8,7 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-  
+NEWS
+
+Excited to host an [upcoming symposium](https://sites.google.com/view/MusicEvolutionPadova) on the interplay of cognition and evolution in musicality. Organising this at the historical Palazzo Bo of the University of Padova, 3-4 April 2024, together with my postdoc Felix Haiduk.
+
+![2](https://github.com/wildetudor/wildetudor.github.io/assets/15835348/f5e6b634-2998-46b1-905e-d00fd9e76600)
+
+
+
+____
+
 I am an Oxford graduate with a passion for science and for music. In my present postdoctoral work, I pursue the comparative study of our cognitive capacities for music and for language.
 <br/><br/>
 The overarching question of my research aims towards a Helmholtzian endeavour that might be so worded: How does meaning, and in particular, emotion, emerge amongst music's different levels, from the individual notes' spectra to the syntactic abstractions required for the comprehension of large-scale musical form? 
